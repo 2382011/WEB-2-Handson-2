@@ -5,7 +5,7 @@ let name = "John Doe";
 let is_active = true;
 let not_found = null;
 let not_defined = undefined;
-let anything = "Grace Eunice";
+let anything = "Elsa Yunita";
 anything = 30;
 // Type inference (Typescript akan menebak tipe data secara otomatis)
 let salary = 5000; // Typescript akan menganggap variabili ini sebagai number
